@@ -9,10 +9,6 @@
         "sourceType":"LocalFile",
         "name":"errorlog",
         "pathExpression":"/var/log/httpd/error_log"
-     },{
-        "sourceType":"LocalFile",
-        "name":"errorlog",
-        "pathExpression":"/var/log/httpd/error_log"
      }
   ]
 }
